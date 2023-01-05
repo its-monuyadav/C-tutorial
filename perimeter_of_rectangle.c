@@ -8,7 +8,7 @@ int main () {
     printf("enter bredth");
     scanf("%d" , &bredth);
 
-    printf("perimeter of rectangle  %d " , length + bredth + length + bredth );
+    printf("perimeter of rectangle  %d " , 2 * length + 2 * bredth  );
 
     return 0;
 
