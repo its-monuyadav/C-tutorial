@@ -11,5 +11,5 @@ int main () {
     else{
         printf("natural number \n");
     }
-
+    return 0;
 }
